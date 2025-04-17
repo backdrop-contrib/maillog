@@ -3,7 +3,6 @@
     "name": "maillog",
     "description": "Displays the list of email logged by the Maillog module.",
     "module": "maillog",
-    "storage": 4,
     "tag": "",
     "disabled": false,
     "base_table": "maillog",
